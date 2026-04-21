@@ -1,0 +1,77 @@
+Capstone Project Submission Guidelines 
+ 
+ 
+Objective 
+This is your final Capstone Project. You must apply your learning and build a complete 
+working project. Follow all instructions shared during project guidance sessions. 
+ 
+Deadline 
+April 21, 2026 | 11:59 PM (Strict). No extensions under any circumstances. 
+ 
+Submission Process 
+Submission will be done via a Google Form: Submit your project 
+ 
+The project link and project upload fields have been kept optional, so students can choose 
+either option as per their convenience. 
+ 
+Kindly review and let me know if any changes are required—I will update them accordingly. 
+Ensure all required files and links are ready before submission. 
+ 
+What to Submit 
+1. Project ZIP File 
+Complete project in working condition. Upload all files in ONE ZIP folder. 
+2. GitHub Link 
+Upload project to GitHub and share a public accessible repository link. Refer to online 
+resources if needed. 
+3. Project Documentation (PDF) 
+4–5 pages | Max 10 MB. 
+Include: Title, Problem Statement, Solution/Features, Screenshots, Tech Stack, Unique 
+Points, Future Improvements. 
+Format: A4, Justified, Page number (bottom-right), Arial font (15 px Heading, 14 px 
+Subheading, 12 px Body). Use AI if needed but ensure understanding. 
+ 
+Project Helper 
+Refer to the Project Helper Document shared by your trainer. You may follow it or build 
+your own, but maintain a similar structure. 
+ 
+Mandatory Details 
+Name, Roll Number, Batch/Program must be clearly mentioned. 
+ 
+Important Rules 
+Individual project only. No copying from friends, seniors, or internet sources. Plagiarism 
+will result in zero marks. 
+ 
+Evaluation and Test 
+Capstone Project Submission Guidelines 
+ 
+ 
+A test (20 Marks) will be conducted after submission. Expected date: April 23, 2026 (final 
+date will be announced). Final marks will be based on both project evaluation and test 
+performance. 
+ 
+Resubmission 
+No resubmissions allowed. Submit only the final version. 
+ 
+Final Checklist 
+Ensure ZIP file, GitHub link, PDF document, and all required details are submitted. Project 
+must be original. 
+ 
+Final Note 
+Your project and test together define your final performance. Submit a complete and 
+working solution. 
+ 
+ 
+Kindly Go through the Project Helper Documents: (this is shared by your mentor 
+to assist with project & guidance) 
+ 
+1. View Agentic AI Project Helper 
+ 
+2. View Data Engineering Project Helper  
+ 
+3. View Data Fundamentals Project Helper 
+ 
+4. View FSD Java Project Helper 
+ 
+5. View Power BI Project Helper 
+ 
+6. View SAP Project Helper 
